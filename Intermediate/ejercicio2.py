@@ -47,7 +47,6 @@ class Calculadora:
         return res
     
     #METODO DIVISIÓN
-    @staticmethod
     def __truediv__(self,otro):
         if(otro.n1==0 or otro.n2==0):
             raise ValueError("El divisor no puede ser 0")
