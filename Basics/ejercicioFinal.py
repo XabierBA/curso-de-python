@@ -1,4 +1,4 @@
-# ENUNCIADO
+"""# ENUNCIADO
 
 # La representación de un cuaternión puede ser utilizada para describir una 
 # rotación en el espacio tridimensional. Es común convertir entre cuaterniones y 
@@ -19,3 +19,4 @@
     # value0: Roll value.
     # value1: Pitch value.
     # value2: Yaw value.
+"""
