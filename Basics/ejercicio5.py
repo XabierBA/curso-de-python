@@ -1,5 +1,5 @@
-# ENUNCIADO
-# Crea una función que defina una multiplicación con únicamente el operador de suma
+"""# ENUNCIADO
+# Crea una función que defina una multiplicación con únicamente el operador de suma"""
 
 def mult_sum(n1, n2):
     sum=0

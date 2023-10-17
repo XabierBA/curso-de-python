@@ -1,5 +1,5 @@
-# ENUNCIADO
-# Usando un bucle for imprime los números del 0 al 100 en saltos de 3 en 3.
+"""# ENUNCIADO
+# Usando un bucle for imprime los números del 0 al 100 en saltos de 3 en 3."""
 
 #Metodo malo
 veces = 100

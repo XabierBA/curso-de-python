@@ -1,10 +1,10 @@
-# ENUNCIADO:
+"""# ENUNCIADO:
 # Crea tres variables (nómbralas de una forma correcta) que contengan los siguientes datos:
 #   -Una tupla con un rango de números
 #   -Una lista con todos los datos básicos.
 #   -Un set con los booleanos True, True, False.
 #   -Un diccionario con 3 pares clave-valor cuyos valores sean tres tipos de datos avanzados diferentes.
-# Imprime por pantalla los datos y razona el resultado.
+# Imprime por pantalla los datos y razona el resultado."""
 
 ej_tupla = (range(1, 50))
 
