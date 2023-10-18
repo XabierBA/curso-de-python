@@ -11,14 +11,14 @@ escribe otra línea más (con lo que tú quieras poner).
 
 Abre el archivo en modo lectura e imprime todos sus contenidos en pantalla."""
 
-with open('archivo_prueba.txt','a+') as f:
+with open('archivo_prueba.txt', 'a+') as f:
     f.seek(0)
     f.write("Esto es la primera linea\n")
     f.write("Esto es la segunda linea\n")
 
     f.seek(0)
     print(f"Archivo mod 1 : \n{f.read()}")
-    
+
     f.seek(0)
     f.write("'Con lo que tu quieras poner'")
 
