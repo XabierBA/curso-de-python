@@ -1,6 +1,6 @@
-"""# ENUNCIADO
-# Privatiza los atributos de la clase Triangle y crea mediante propiedades los métodos
-# getters y setters para acceder a ellos."""
+"""ENUNCIADO
+Privatiza los atributos de la clase Triangle y crea mediante propiedades los métodos
+getters y setters para acceder a ellos."""
 
 class Triangle:
         def __init__(self, base, altura):

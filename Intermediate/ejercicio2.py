@@ -1,13 +1,13 @@
 """ENUNCIADO
-# Crea una clase llamada Calculadora que reciba dos números enteros como parámetros en su constructor. 
-# Esta clase debe tener los siguientes métodos:
+Crea una clase llamada Calculadora que reciba dos números enteros como parámetros en su constructor. 
+Esta clase debe tener los siguientes métodos:
     # Suma
     # Resta
     # Multiplicación
     # División
     # Comparación
 
-# Recuerda manejar las excepciones."""
+Recuerda manejar las excepciones."""
 
 class Calculadora:
 

@@ -1,6 +1,6 @@
-"""#ENUNCIADO
-#Dadas las siguientes coordenadas que representan puntos, 
-# calcula el módulo del vector que forman (longitud del segmento)."""
+"""ENUNCIADO
+Dadas las siguientes coordenadas que representan puntos, 
+calcula el módulo del vector que forman (longitud del segmento)."""
 
 
 point_1 = (0, 1)
